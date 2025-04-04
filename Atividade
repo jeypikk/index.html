@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustentabilidade: Um Caminho para o Futuro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .important {
+            font-weight: bold;
+        }
+        .italic {
+            font-style: italic;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        ul {
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Sustentabilidade: Um Caminho para o Futuro</h1>
+    <h2>Por que a Sustentabilidade é Importante?</h2>
+    <p>A <span class="italic">sustentabilidade</span> é fundamental para garantir que as gerações futuras tenham acesso aos recursos naturais e a um ambiente saudável. Ela envolve práticas que promovem o equilíbrio entre o desenvolvimento econômico e a preservação do meio ambiente.</p>
+    
+    <img src="https://via.placeholder.com/800x400?text=Imagem+de+Sustentabilidade" alt="Sustentabilidade">
+
+    <p>Alguns pontos importantes sobre a sustentabilidade incluem:</p>
+    <ul>
+        <li><span class="important">Redução de resíduos:</span> Minimizar o desperdício e promover a reciclagem.</li>
+        <li><span class="important">Uso consciente da água:</span> Evitar o desperdício e preservar os recursos hídricos.</li>
+        <li><span class="important">Energias renováveis:</span> Incentivar o uso de fontes de energia limpas, como solar e eólica.</li>
+        <li><span class="important">Proteção da biodiversidade:</span> Conservar habitats naturais e espécies em perigo.</li>
+    </ul>
+
+    <p>Adotar práticas sustentáveis é uma responsabilidade de todos nós. Cada pequena ação conta!</p>
+
+</body>
+</html>
